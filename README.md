@@ -22,13 +22,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+Desktop
 ![](./Output/Desktop.png)
+Mobile
 ![](./Output/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click me](https://github.com/arunsingh009/fontendMentorChallenge1)
+- Live Site URL: [CLick me](https://arunsingh009.github.io/fontendMentorChallenge1/)
 
 ## My process
 
